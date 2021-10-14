@@ -1,0 +1,26 @@
+.mint-form {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid blue;
+  border-radius: 5px;
+  max-width: 640px;
+  padding: 20px;
+}
+
+.form-group {
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+.form-button-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.form-button {
+  height: 50px;
+  width: 300px;
+}
